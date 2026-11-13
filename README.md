@@ -5,7 +5,7 @@ O **Prato Solidário** é um Progressive Web Application (PWA) desenvolvido para
 ## 🚀 Funcionalidades Principais
 - **Controle de Estoque FIFO (PEPS):** Priorização automática de lotes de alimentos com vencimento próximo.
 - **Validação por CPF:** Checagem da regra de intervalo de 30 dias entre atendimentos.
-- **Acessibilidade:** Interface adaptada conforme diretrizes WCAG 2.1 AA (dupla codificação, alto contraste e botões ampliados).
+- **Acessibilidade:** Interface adaptada conforme diretrizes WCAG 2.1 AA (dupla codificação, alto contraste e botões ampliados)..
 
 ## 🛠️ Tecnologias Utilizadas
 - **Front-end:** HTML5, CSS3, JavaScript (PWA / Bootstrap)
